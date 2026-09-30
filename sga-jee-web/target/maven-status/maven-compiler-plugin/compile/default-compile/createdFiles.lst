@@ -1,0 +1,6 @@
+uaz\isw\domain\Persona.class
+uaz\isw\web\IOExeption.class
+uaz\isw\service\PersonaService.class
+uaz\isw\web\PersonaServlet.class
+uaz\isw\service\PersonaServiceImpl.class
+uaz\isw\service\PersonaServiceRemote.class
